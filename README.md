@@ -1,2 +1,2 @@
-# bible_games
+# bible-game
 
